@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373423265341",
+    "firebase_url": "https://chatone2one-4817a.firebaseio.com",
+    "project_id": "chatone2one-4817a",
+    "storage_bucket": "chatone2one-4817a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373423265341:android:5bcdac444e8234a0",
+        "android_client_info": {
+          "package_name": "com.example.applikasichatone2one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373423265341-g1d1pismo9bfdgj8k35q4dpfl0sa1e24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.applikasichatone2one",
+            "certificate_hash": "02c79d5d7eb29c814b1caeb1bcc8c8c40a183ef5"
+          }
+        },
+        {
+          "client_id": "373423265341-gf2u5m8d97one2o81ac2n6qhu67jpp9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zJ0BR5gjALfpFhuxpKAwRuYGp9qSuaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373423265341-gf2u5m8d97one2o81ac2n6qhu67jpp9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
